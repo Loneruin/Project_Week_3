@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+1# Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
 The goald of the project is to retrieve data using API, perform EDA and finally build a regression model
@@ -14,6 +14,7 @@ I have chose the new york bike station and found some restaurants which are loca
 
 ## Challenges 
 1. Loop the longitude and latitude of the city_bike data to find the longitude and latitude of the nearby restaurants
+2. Some countries don't have enough data. As a result, the data may be full of Null values and I have to look up for a different one
 2. Difficult to find a relationships between dependent variable which is the number of bikes with other independent variables
 ## Future Goals
 1. Perform a better EDA
